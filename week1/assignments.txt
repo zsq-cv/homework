@@ -1,0 +1,10 @@
+1、recode all example（重现所有样例）
+2、please change image color through YUV(RGB的映射)  space
+3、combine image crop(图像剪切）,color shift（颜色偏移）,rotation（旋转） and perspective transform（投影变换）（透视变换：相似、仿射、投影） together to complete a data augmentation script
+用GAN的方式生成更多种类的图
+4、choose topic
+查看API
+opencv python tutorial
+仿射变换矩阵不正交
+相似变换正交
+投影多了一个点和一个附加条件
